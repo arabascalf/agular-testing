@@ -17,4 +17,3 @@ node {
         junit '**/test-results.xml'
     }
 }
-
